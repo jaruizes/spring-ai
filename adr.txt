@@ -1,0 +1,7 @@
+Spring AI
+
+There is a request to support multiple collections when we work with vector databases
+As a workaround, you can create multiple instances of the VectorDatabase and use them separately or using metadata
+
+
+https://github.com/spring-projects/spring-ai/issues/468
